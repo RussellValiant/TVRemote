@@ -18,3 +18,5 @@ Main Features Include:
 
 
 Avaliable on the App Store: https://apps.apple.com/app/id1517897247
+
+Roon Community thread: https://community.roonlabs.com/t/apple-tv-extension-roon-tv-remote/109448/230
